@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/github-workflow.json": "file:///Users/denysiaremenko/code/simple_node_app/.github/workflows/node.js.yml"
+    }
+}
